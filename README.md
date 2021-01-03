@@ -1,3 +1,2 @@
 # engeto_python-academy
-neco
-neco navic
+Created for projects of Python Academy
