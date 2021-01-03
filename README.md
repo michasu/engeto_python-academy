@@ -1,2 +1,0 @@
-# engeto_python-academy
-
